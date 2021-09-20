@@ -1,0 +1,13 @@
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.csprojAssemblyReference.cache
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.AssemblyInfoInputs.cache
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.AssemblyInfo.cs
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.csproj.CoreCompileInputs.cache
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.exe
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.deps.json
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.runtimeconfig.json
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.runtimeconfig.dev.json
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.dll
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\bin\Debug\netcoreapp3.1\Array_ATV.pdb
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.dll
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.pdb
+C:\Projetos\ams\1ano\SEMESTRE2\Array\Array_ATV\obj\Debug\netcoreapp3.1\Array_ATV.genruntimeconfig.cache
